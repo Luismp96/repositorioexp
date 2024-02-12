@@ -2,6 +2,8 @@ import random
 
 print("Piedra Papel Tijera (c) 2024 Luis Martin")
 
+def bucle():
+
 print("1 - Piedra")
 print("2 - Papel")
 print("3 - Tijera")
@@ -45,9 +47,9 @@ elif (tirada == 3 and tiradaordenador == 2)
 elif (tirada == 3 and tiradaordenador == 3)
 	print "empate"
 
+bucle()
 
-
-
+bucle()
 
 
 
