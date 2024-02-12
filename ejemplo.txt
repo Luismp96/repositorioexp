@@ -1,5 +1,7 @@
 import random
 
+print("Piedra Papel Tijera (c) 2024 Luis Martin")
+
 print("1 - Piedra")
 print("2 - Papel")
 print("3 - Tijera")
